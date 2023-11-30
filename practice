@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Playground</title>
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <h1>Welcome to Playground!</h1>
+    <p>Discover Creativity and Innovation at Your Fingertips!</p>
+    <button id="exploreButton">Explore Now</button>
+    <div id="interactiveArea" style="display:none;">
+        <p>Welcome to the interactive area of Playground!</p>
+        <!-- Interactive content goes here -->
+    </div>
+</body>
+</html>
